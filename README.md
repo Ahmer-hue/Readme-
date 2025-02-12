@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=FF6600&width=550&height=60&lines=Hello%2C+I'm+%3CYour+Name%3E+%F0%9F%91%8B;Frontend+Web+Developer;Passionate+about+UI%2FUX+Design;Bringing+Ideas+to+Life+with+Code">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=FF6600&width=550&height=60&lines=Hello%2C+I'm+%3CFilza+Jameel%3E+%F0%9F%91%8B;Frontend+Web+Developer;Passionate+about+UI%2FUX+Design;Bringing+Ideas+to+Life+with+Code">
 </h1>
 
 <!-- GIF -->
@@ -15,7 +15,7 @@
 💡 I specialize in **HTML | CSS | JavaScript | Bootstrap** and currently exploring **React & TailwindCSS**.  
 💻 I love building projects that solve real-world problems!  
 🚀 **Always learning, always growing!**  
-📫 Reach me at: ✉️ **your.email@example.com**
+📫 Reach me at: ✉️ **filzajameel458@gmail.com**
 
 ---
 
@@ -52,7 +52,7 @@
 
 ## 🌎 **Let's Connect**
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/filzajameel?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/your-profile" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://codepen.io/your-profile" target="_blank"><img src="https://img.shields.io/badge/CodePen-%23000000.svg?style=for-the-badge&logo=codepen&logoColor=white"></a>
   <a href="https://dev.to/your-profile" target="_blank"><img src="https://img.shields.io/badge/DEV-%23000000.svg?style=for-the-badge&logo=dev.to&logoColor=white"></a>
