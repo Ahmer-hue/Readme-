@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/your-username">Your Name</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/your-username">Filza Jameel</a> 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="600" height="300">
@@ -12,7 +12,7 @@
 - 🌐 Specializing in **HTML | CSS | JavaScript | Bootstrap**
 - 📌 Currently exploring **React & TailwindCSS**
 - 🎯 Aiming to craft responsive, user-friendly, and visually appealing web applications.
-- 📫 Let's connect: **your.email@example.com**
+- 📫 Let's connect: **filza@gmail.com**
 
 ---
 
